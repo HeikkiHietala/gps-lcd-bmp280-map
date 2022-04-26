@@ -63,8 +63,8 @@ function extractData() {
     global $last_lines;
     global $data;
     global $team_no;
-
-    $base_urls = array('https://www.hh3dlab.fi/madrid/iot01/iotwrite.txt');
+    // this is the location of your GPS data file
+    $base_urls = array('https://www.myserver.com/iot01/iotwrite.txt');
 
     foreach ($base_urls as $key => $base_url) {
         $key += 1;
