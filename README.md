@@ -13,4 +13,4 @@ The map PHP files on the web server then display either a single box location on
 
 The INO file needs to be edited to include your URLs.
 
-![A test image](image.png)
+![Device running](20220420_152010.jpg)
