@@ -65,15 +65,16 @@ function extractData() {
     global $team_no;
 
     $base_urls = array(
-        'https://www.hh3dlab.fi/madrid/iot01/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot02/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot03/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot04/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot05/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot06/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot07/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot08/iotwrite.txt',
-        'https://www.hh3dlab.fi/madrid/iot09/iotwrite.txt'
+        // this is where you need to edit in your paths
+        'https://www.myserver.com/iot01/iotwrite.txt',
+        'https://www.myserver.com/iot02/iotwrite.txt',
+        'https://www.myserver.com/iot03/iotwrite.txt',
+        'https://www.myserver.com/iot04/iotwrite.txt',
+        'https://www.myserver.com/iot05/iotwrite.txt',
+        'https://www.myserver.com/iot06/iotwrite.txt',
+        'https://www.myserver.com/iot07/iotwrite.txt',
+        'https://www.myserver.com/iot08/iotwrite.txt',
+        'https://www.myserver.com/iot09/iotwrite.txt'
     );
 
     foreach ($base_urls as $key => $base_url) {
