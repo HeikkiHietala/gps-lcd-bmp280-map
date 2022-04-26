@@ -1,14 +1,12 @@
 /*
-  modified on Sep 27, 2020
-  Modified by MohammedDamirchi from https://github.com/mikalhart/TinyGPSPlus
-  Home
+  Modified from https://github.com/mikalhart/TinyGPSPlus
 */
 //libraries and variables for web interface
 #include <WiFi.h>   //wifi library
 #include <HTTPClient.h> //http client
-const char* ssid       = "HHWLAN";
-const char* password   = "HHWLAN12345";
-const char* serverName = "https://hh3dlab.fi/madrid/iot11/iotwrite.php"; // for example http://www.yourserver.com/gravicube/gravicube.php
+const char* ssid       = "YOUR_SSID";
+const char* password   = "YOUR_PASSWORD";
+const char* serverName = "YOUR_SERVER_WRITE_FILE"; // for example https://yourserver.com/iot/iotwrite.php
 
 //libraries and global variables for BMP280
 #include <Adafruit_BMP280.h>
