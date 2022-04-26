@@ -3,7 +3,7 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <link href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" rel="stylesheet"/>
-    <title>Madrid Seminar - IoT</title>
+    <title>Title of your map app</title>
     <style>
         #map {
             width: 100%;
@@ -40,6 +40,7 @@ if (isset($_POST["Fetch"])) {
 ?>
 <div class="container">
     <form method="POST">
+        //if you don't want to use the button, make the page self-refresh
         <input type="submit" value="Fetch Data" name="Fetch" class="fetch-btn">
     </form>
 </div>
