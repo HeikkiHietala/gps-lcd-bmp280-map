@@ -9,7 +9,7 @@ The box has a display to show the location data, altitude, number of satellites,
 
 This data is sent to a text file on the web every ten seconds.
 
-The map PHP files on the web server then display either a single box location on the map, or, ipf you have more than one box, their locations.
+The map PHP files on the web server then display either a single box location on the map, or, if you have more than one box, their locations.
 
 The INO file needs to be edited to include your URLs.
 
