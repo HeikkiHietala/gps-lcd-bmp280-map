@@ -17,4 +17,4 @@ The INO file needs to be edited to include your URLs.
 
 
 
-[![Video of device running:](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtube.com/shorts/pClqnxGrZOU?feature=share)
+[![Video of device running:](https://youtube.com/shorts/pClqnxGrZOU?feature=share)
