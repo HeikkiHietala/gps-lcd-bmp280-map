@@ -15,6 +15,4 @@ The INO file needs to be edited to include your URLs.
 
 ![Device running](20220420_152010.jpg)
 
-
-
-[![Video of device running:](https://youtube.com/shorts/pClqnxGrZOU?feature=share)
+See https://youtube.com/shorts/pClqnxGrZOU?feature=share
